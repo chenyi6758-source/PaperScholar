@@ -13,7 +13,7 @@ from typing import Optional
 sys.path.insert(0, str(Path(__file__).parent / "core"))
 sys.path.insert(0, str(Path(__file__).parent / "prompts"))
 
-from model_adapter import ModelClient, ModelConfig, CN_TEMPLATES
+from model_adapter import ModelClient, ModelConfig
 from prompts import (
     TUTOR_MAP, POLISH_REMOVE_AI_TONE, POLISH_ACADEMIC,
     RESEARCH_ANALYZE, INNOVATION_CHECK, REBUTTAL_GENERATE,

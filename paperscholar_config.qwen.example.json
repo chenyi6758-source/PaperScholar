@@ -1,0 +1,12 @@
+{
+  "provider": "qwen",
+  "model": "qwen-max",
+  "api_key": "YOUR_DASHSCOPE_KEY",
+  "scene": "thesis",
+  "workflow": "rewrite",
+  "research_depth": "pro",
+  "output_language": "Chinese",
+  "translation_package": true,
+  "tutor_style": "strict",
+  "cn_scene": "thesis"
+}

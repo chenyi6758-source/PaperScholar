@@ -1,0 +1,11 @@
+{
+  "provider": "anthropic",
+  "model": "claude-sonnet-4-20250514",
+  "api_key": "YOUR_ANTHROPIC_KEY",
+  "scene": "journal",
+  "workflow": "build",
+  "research_depth": "pro",
+  "output_language": "English",
+  "translation_package": true,
+  "tutor_style": "neurips"
+}

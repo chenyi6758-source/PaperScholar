@@ -1,0 +1,12 @@
+{
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "api_key": "YOUR_API_KEY_HERE",
+  "scene": "journal",
+  "workflow": "build",
+  "research_depth": "flash",
+  "output_language": "Chinese",
+  "translation_package": false,
+  "tutor_style": "strict",
+  "cn_scene": ""
+}
